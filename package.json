@@ -1,0 +1,26 @@
+{
+  "name": "nodejwt",
+  "version": "1.0.0",
+  "description": "Jwt Introduction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarimMohamed2005/Jwt-NodeJs.git"
+  },
+  "keywords": [
+    "Jwt"
+  ],
+  "author": "KarimMohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarimMohamed2005/Jwt-NodeJs/issues"
+  },
+  "homepage": "https://github.com/KarimMohamed2005/Jwt-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
